@@ -288,7 +288,7 @@ export default function MiningProductionApp() {
                       </div>
 
                       <div className="flex justify-between items-center py-2 border-b border-slate-700/50">
-                        <span className="text-slate-400">Rendement Horaires (Flotte)</span>
+                        <span className="text-slate-400">Rendement Horaire (Flotte)</span>
                         <span className="text-2xl font-extrabold text-emerald-400">{hourlyProduction} t/h</span>
                       </div>
                     </div>
